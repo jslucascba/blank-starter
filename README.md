@@ -1,2 +1,2 @@
 # blank-starter
-# Start repo for projects and exams.
+# Starter repo for projects and exams.
